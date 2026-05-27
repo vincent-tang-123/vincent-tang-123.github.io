@@ -30,6 +30,10 @@ info:
 lazyload:
   enable: true
 
+# 自定义 <head> 注入 — 覆盖主题默认 logo SVG，改为纯文字 logo
+heads:
+  - '<style>.nav-header .header-inner .title{background-image:none!important;width:auto;height:auto;font-size:17px;font-weight:700;color:#111;letter-spacing:.01em;display:flex;align-items:center;}</style>'
+
 # 评论：linen 主题原生只支持 Gitalk。
 # 本站使用 Giscus（见 scripts/giscus.js + 站点 _config.yml 的 giscus 节点），
 # 因此 theme.comment 留空即可（不启用 Gitalk）。
