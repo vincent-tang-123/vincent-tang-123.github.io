@@ -7,13 +7,15 @@ comments: false
 
 # 你好，我是 vin
 
-这里是 **vin-place** — 一个我用来记录生活、技术与零碎想法的小角落。
+这里是 **vin-place** — 一个我用来记录 AI、机器人、代码与零碎想法的小角落。
+
+白天写代码、晚上读论文、偶尔被自己写的 prompt 逗笑。
 
 ## 关于这里
 
 - 用 [Hexo](https://hexo.io/) + [linen](https://github.com/LynanBreeze/hexo-theme-linen) 主题搭建
 - 托管在 GitHub Pages，通过 GitHub Actions 自动构建
-- 内容尽量保持安静、少打扰
+- 内容主题：AI / LLM / 机器人 / 程序员生活
 
 ## 联系我
 

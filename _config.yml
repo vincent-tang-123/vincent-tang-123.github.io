@@ -4,9 +4,9 @@
 
 # Site
 title: vin-place
-subtitle: '一个安静的角落'
-description: 'vin 的个人博客 — 记录、思考与探索'
-keywords: blog,vin,vin-place
+subtitle: '关于 AI、机器人与代码的小角落'
+description: 'vin 的个人博客 — 关于 AI、LLM、机器人与程序员生活的记录'
+keywords: blog,vin,AI,LLM,机器人,robotics,programming
 author: vin
 language: zh-CN
 timezone: 'Asia/Shanghai'
