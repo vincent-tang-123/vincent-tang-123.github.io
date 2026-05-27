@@ -1,0 +1,42 @@
+# hexo-theme-linen configuration
+# Docs: https://lynanbreeze.github.io/hexo-theme-linen-doc-zh-CN/
+
+# 站点 LOGO（左上角，文字 logo）
+logo:
+  text: vin-place
+
+# Favicon（可放自己的 svg/ico 到 source/）
+# icon: /favicon.svg
+
+# 顶部导航
+navItems:
+  - name: 首页
+    path: /
+  - name: 归档
+    path: /archives/
+  - name: 标签
+    path: /tags/
+  - name: 图库
+    path: /gallery/
+  - name: 关于
+    path: /about/
+
+# 站点附加信息（页脚 & 头部按钮）
+info:
+  github: https://github.com/vincent-tang-123
+  registration: ''
+
+# 懒加载（图片/视频/iframe）
+lazyload:
+  enable: true
+
+# 评论：linen 主题原生只支持 Gitalk。
+# 本站使用 Giscus（见 scripts/giscus.js + 站点 _config.yml 的 giscus 节点），
+# 因此 theme.comment 留空即可（不启用 Gitalk）。
+# comment:
+#   client_id: ''
+#   client_secret: ''
+#   repo: ''
+#   owner: ''
+#   admin: []
+#   proxy: ''
